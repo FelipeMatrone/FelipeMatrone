@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou o Felipe 👋
 
-<!--
-**FelipeMatrone/FelipeMatrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de Engenharia de Software | 💼 Analista de Suporte Jr. III | 🚀 Em transição para Desenvolvimento de Software
 
-Here are some ideas to get you started:
+Atualmente atuo como **Analista de Suporte Jr. III**, trabalhando com **SQL, PostgreSQL, documentação de processos e suporte técnico**, enquanto desenvolvo projetos pessoais para aprimorar minhas habilidades em desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia e gosto de transformar ideias em soluções práticas, sempre buscando aprender novas ferramentas, boas práticas e evoluir como desenvolvedor.
+
+## 🚀 Tecnologias
+
+### 💻 Linguagens
+
+TypeScript • HTML • CSS • JavaScript • Java • Python • C# • SQL 
+
+### ⚙️ Frameworks e Ferramentas
+
+React • .NET • PostgreSQL • Git • GitHub
+
+## 🌱 Atualmente estudando
+
+- Arquitetura de Software
+- Clean Architecture
+- Design Patterns
+- Desenvolvimento Full Stack
+- Boas práticas de desenvolvimento
+
+## 📌 Projetos em destaque
+
+🔹 **Controle de Gastos** (.NET + React)
+
+🔹 **AjudaNaMão** (React)
+
+🔹 **Projetos em Java**
+
+🔹 **Scripts e consultas PostgreSQL**
+
+## 📫 Contato
+
+**LinkedIn:**  
+https://www.linkedin.com/in/felipematrone/
+
+**E-mail:**  
+felipematrone@gmail.com
